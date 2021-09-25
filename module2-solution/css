@@ -15,7 +15,6 @@ p {
   overflow: hidden;
 }
 
-
 #container {
   position: relative;
   
@@ -62,12 +61,10 @@ p {
 
 }
 
-
 .row {
   width: 100%;
 
 }
-
 
 /********** For Large devices **********/
 @media (min-width: 992px) {
