@@ -11,5 +11,16 @@
 
 .navbar-brand {
   font-size: 35px;
+  color: white;
+  padding-left: 25px;
+}
+
+.navbar-brand:hover {
+  color: white;
+}
+
+.nav {
+  margin: 0;
+  padding: 0;
   
   
